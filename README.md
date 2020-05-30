@@ -1,1 +1,1 @@
-Versão inicial do projeto
+Versão inicial do projeto.
